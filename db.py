@@ -6,7 +6,7 @@ import os
 mydb = mysql.connector.connect(
     host = "rds-db-project-4.cvrkscuruxt3.us-west-1.rds.amazonaws.com",
     user = "admin",
-    password = "Pikachu23343!",
+    password = "demopass",
     port = "3306",
     database = "data"
 )
